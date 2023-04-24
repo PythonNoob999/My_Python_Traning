@@ -1,5 +1,6 @@
 # random qoute generator
-# project status = Finished
+# project status = Basic.version 0.0.1 
+# advanced version of this code is coming
 
 #import the random and sys module
 import random
