@@ -1,3 +1,5 @@
+# Random Password Generator
+# project status = Finished
 # importing the random module 
 import random
 
