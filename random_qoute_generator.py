@@ -1,5 +1,5 @@
-
 # random qoute generator
+# project status = Finished
 
 #import the random and sys module
 import random
