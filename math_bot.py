@@ -4,7 +4,7 @@ from telebot import types,util
 from decouple import config
 import math
 # Create a .env File and store the bot token in a variable
-# and but the Token variable here 👇👇
+# and but the variable name here 👇
 BOT_TOKEN = config("MATH_BOT_TOKEN")
 
 bot = telebot.TeleBot(BOT_TOKEN)
