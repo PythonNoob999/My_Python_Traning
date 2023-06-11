@@ -47,7 +47,7 @@ def leave(message:types.ChatMemberUpdated):
     if update.status == "member":
         bot.leave_chat(message.chat.id)
 
-# listening to group members
+# checking always for messages
 
 @bot.message_handler(func=lambda m:True)
 
