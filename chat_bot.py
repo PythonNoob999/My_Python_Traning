@@ -17,7 +17,7 @@ text_message = {
     "new_user":
         u"hello {name}",
     "bye_noob":
-        u"bye {name} nerd"
+        u"bye {name}"
 }
 
 @bot.message_handler(commands = ["start", "help", "hi"])
